@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabDemo.LabReactUI", "LabDemo.LabReactUI\LabDemo.LabReactUI.csproj", "{0C36EA78-2489-4F51-B3DF-7D2F1E0F5E36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{053AFBF8-990B-44C2-AD5E-71BED954A114}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C36EA78-2489-4F51-B3DF-7D2F1E0F5E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C36EA78-2489-4F51-B3DF-7D2F1E0F5E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C36EA78-2489-4F51-B3DF-7D2F1E0F5E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C36EA78-2489-4F51-B3DF-7D2F1E0F5E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B72DC1-B08E-4824-BD6D-B5AA62F919D4}
+	EndGlobalSection
+EndGlobal
